@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rwm76s
+- 👋 Hi, I’m Riley
 - 👀 I’m interested in gaming and pop culture
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on github so that I can better work in groups in the field
